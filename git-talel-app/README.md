@@ -1,2 +1,1 @@
-+GIT TALEL APP
-
+# Mio Progetto Git
