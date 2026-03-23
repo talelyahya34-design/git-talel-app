@@ -1,2 +1,1 @@
-### Coauthor Alessandro
-
+# Mio Progetto Git
